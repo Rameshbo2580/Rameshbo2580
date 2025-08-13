@@ -1,4 +1,5 @@
-# ![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif) Hello! I’m Ramesh Bohora
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align:middle;"> Hello! I’m Dilip Kumar Bohora
+
 
 I’m a **Full-Stack Web Developer** passionate about building modern web applications and exploring new technologies.  
 
