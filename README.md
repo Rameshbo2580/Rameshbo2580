@@ -13,5 +13,11 @@ I’m a **Full-Stack Web Developer** passionate about building modern web applic
 - ✨ Interested in **open-source contributions** and **tech communities**.  
 
 ---
+## 📬 Contact Me
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/dilip-kumar-bohora-40325b365)
+- Email: ramesh@example.com  
+- GitHub: [@Rameshbo2580](https://github.com/Rameshbo2580)  
+
+---
 
 *“Code is poetry — write it elegantly and share it proudly.”* ✨
